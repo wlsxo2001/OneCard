@@ -1,0 +1,2 @@
+/usr/bin/ar qc librule.a CMakeFiles/rule.dir/src/Game.cpp.o CMakeFiles/rule.dir/src/Card.cpp.o CMakeFiles/rule.dir/src/Deck.cpp.o CMakeFiles/rule.dir/src/Player.cpp.o CMakeFiles/rule.dir/src/JokerCard.cpp.o CMakeFiles/rule.dir/src/NormalCard.cpp.o
+/usr/bin/ranlib librule.a

@@ -1,0 +1,6 @@
+/home/jintae/CLionProjects/Onecard/build/CMakeFiles/rebuild_cache.dir
+/home/jintae/CLionProjects/Onecard/build/CMakeFiles/edit_cache.dir
+/home/jintae/CLionProjects/Onecard/build/CMakeFiles/Onecard.dir
+/home/jintae/CLionProjects/Onecard/build/rule/CMakeFiles/rebuild_cache.dir
+/home/jintae/CLionProjects/Onecard/build/rule/CMakeFiles/edit_cache.dir
+/home/jintae/CLionProjects/Onecard/build/rule/CMakeFiles/rule.dir
